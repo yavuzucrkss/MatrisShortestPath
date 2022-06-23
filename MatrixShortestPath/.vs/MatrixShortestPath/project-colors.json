@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3140ed4-16d1-46f3-be33-92a5bcb04180": {
+      "ProjectGuid": "a3140ed4-16d1-46f3-be33-92a5bcb04180",
+      "DisplayName": "MatrixShortestPath",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

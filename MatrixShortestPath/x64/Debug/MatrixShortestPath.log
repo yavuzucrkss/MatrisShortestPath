@@ -1,0 +1,7 @@
+﻿  main.c
+D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\main.c(30,15): warning C4013: 'createMatris' undefined; assuming extern returning int
+D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\main.c(38,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\main.c(55,15): warning C4047: 'return': 'int' differs in levels of indirection from 'int (*)[10]'
+D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\main.c(40,6): warning C4101: 'min': unreferenced local variable
+D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\main.c(15): warning C4715: 'min3Matris': not all control paths return a value
+  MatrixShortestPath.vcxproj -> D:\Desktop\github projeler\MatrisShortestPath\MatrixShortestPath\x64\Debug\MatrixShortestPath.exe
